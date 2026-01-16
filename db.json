@@ -1,0 +1,165 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "desc": "Notebook Dell Inspiron 15",
+      "preco": 3899.9,
+      "status": "ativo"
+    },
+    {
+      "id": "2",
+      "desc": "Mouse Gamer RGB",
+      "preco": 129.99,
+      "status": "ativo"
+    },
+    {
+      "id": "3",
+      "desc": "Teclado Mecânico Switch Blue",
+      "preco": 299.9,
+      "status": "ativo"
+    },
+    {
+      "id": "4",
+      "desc": "Monitor 24 Full HD",
+      "preco": 899,
+      "status": "inativo"
+    },
+    {
+      "id": "5",
+      "desc": "Headset Gamer Surround 7.1",
+      "preco": 349.9,
+      "status": "ativo"
+    },
+    {
+      "id": "5",
+      "desc": "Headset Gamer Surround 7.1",
+      "preco": 349.9,
+      "status": "ativo"
+    },
+    {
+      "id": "78b6",
+      "desc": "teclao"
+    },
+    {
+      "id": "874a",
+      "desc": "teclao"
+    },
+    {
+      "id": "00bc",
+      "desc": "teclao"
+    },
+    {
+      "id": "8267",
+      "desc": "teclao"
+    },
+    {
+      "id": "d23e",
+      "desc": "teste"
+    },
+    {
+      "id": "b9db",
+      "desc": "sdsd"
+    }
+  ],
+  "comments": [
+    {
+      "id": "2",
+      "user": "user_02",
+      "name": "Carlos Souza",
+      "comment": "Concordo com o que foi dito no artigo.",
+      "like": 33,
+      "active": true,
+      "postTime": "2026-01-10T15:01:45Z"
+    },
+    {
+      "id": "3",
+      "user": "user_03",
+      "name": "Mariana Costa",
+      "comment": "Acho que poderia explicar melhor essa parte.",
+      "like": 16,
+      "active": true,
+      "postTime": "2026-01-11T09:10:12Z"
+    },
+    {
+      "id": "4",
+      "user": "user_04",
+      "name": "Lucas Pereira",
+      "comment": "Não gostei muito da abordagem.",
+      "like": 6,
+      "active": false,
+      "postTime": "2026-01-11T11:42:30Z"
+    },
+    {
+      "id": "5",
+      "user": "user_05",
+      "name": "Fernanda Lima",
+      "comment": "Esse comentário responde o da Ana.",
+      "like": 7,
+      "active": true,
+      "postTime": "2026-01-11T13:55:00Z"
+    },
+    {
+      "id": "6",
+      "user": "user_01",
+      "name": "Ana Silva",
+      "comment": "Obrigada pelo feedback, pessoal!",
+      "like": 8,
+      "active": true,
+      "postTime": "2026-01-11T14:02:18Z"
+    },
+    {
+      "id": "6c56",
+      "user": "user_01",
+      "name": "Kawan",
+      "comment": "olá",
+      "like": 2,
+      "active": true,
+      "postTime": "2026-01-15T16:39:32.574Z"
+    },
+    {
+      "id": "0.6314913942104641",
+      "user": "kawan",
+      "name": "kawan Sousa",
+      "comment": "esse foi o meu comment",
+      "like": 1,
+      "active": true,
+      "postTime": "2026-01-10T15:01:45Z"
+    },
+    {
+      "id": "0.7141720846128524",
+      "user": "kawan",
+      "name": "kawan Sousa",
+      "comment": "esse foi o meu comment",
+      "like": 1,
+      "active": true,
+      "postTime": "2026-01-10T15:01:45Z"
+    },
+    {
+      "id": "0.5329237276878857",
+      "user": "kawan",
+      "name": "kawan Sousa",
+      "comment": "esse foi o meu comment",
+      "like": 1,
+      "active": true,
+      "postTime": "2026-01-10T15:01:45Z"
+    },
+    {
+      "id": "0.756440298870779",
+      "user": "kawan",
+      "name": "kawan Sousa",
+      "comment": "esse foi o meu comment",
+      "like": 1,
+      "active": true,
+      "postTime": "2026-01-10T15:01:45Z"
+    },
+    {
+      "id": 0.8488632159376847,
+      "user": "kawan",
+      "name": "kawan Sousa",
+      "comment": "esse foi o meu comment",
+      "like": 0,
+      "active": true,
+      "postTime": "2026-01-10T15:01:45Z"
+    }
+  ]
+}
